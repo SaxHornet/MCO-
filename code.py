@@ -19,7 +19,6 @@ print ("Dataset is .....\n\n\n")
 print (Z,y) #affichage du dataset final
 
 #Question 3 -calcul des résidus
-#normalement calcul à la main, cf sujet !!
 print ("Calulating in progress.......\n\n\n")
 print ("=============================\n\n\n")
 x = sm.OLS(y,sm.add_constant(Z)).fit()
