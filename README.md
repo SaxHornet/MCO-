@@ -8,4 +8,4 @@ Ces résultats étant des chiffres divisés par 100 par le programme, il suffit 
 Utilisation des librairies Pandas, Statsmodel et sklearn.
 
 - Pandas pour la manipulation des données du CSV
-- Statsmodel et sklearn pour la régression linéaire
+- Statsmodels et sklearn pour la régression linéaire
