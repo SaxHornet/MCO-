@@ -1,1 +1,1 @@
-# regression-lin-aire-mooc
+# regression-lineaire-mooc
