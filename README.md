@@ -12,4 +12,4 @@ Utilisation des librairies Pandas / Numpy / sklearn
 
 Installation des dépendances 
 
-pip -r requirements.txt
+pip3 install -r requirements.txt
