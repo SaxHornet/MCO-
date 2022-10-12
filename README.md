@@ -7,7 +7,7 @@ Cette régression se basait sur le MCO avec le calcul du Beta - Opérations matr
 Utilisation des librairies Pandas / Numpy / sklearn
 
 - Pandas pour la manipulation des données
-- Numpy pour calcul scientifique
+- Numpy pour le calcul scientifique
 - Sklearn pour la standardisation des variables
 
 Installation des dépendances 
