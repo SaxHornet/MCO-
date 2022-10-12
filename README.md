@@ -1,11 +1,14 @@
-# regression-lineaire-mooc
+# Calcul des résidus avec Beta
 
-Dans ce projet, nous avions une base de données CSV et nous devions calculer les résidus - notés r^2. 
-Cette régression se basaient sur le MCO, les moindres carrés ou en anglais OLS.
+Dans ce projet, nous avions une base de données CSV et nous devions calculer les résidus.
+Cette régression se basaient sur le MCO avec le calcul de Beta - Opérations matricielles
 
-Ces résultats étant des chiffres divisés par 100 par le programme, il suffit de le remultiplier par 100 pour obtenir la valeur entière du nombre. 
-
-Utilisation des librairies Pandas, Statsmodel et sklearn.
+Utilisation des librairies Pandas / sklearn / Numpy
 
 - Pandas pour la manipulation des données du CSV
-- Statsmodels et sklearn pour la régression linéaire
+- Sklearn pour la standardisation des variables
+- Numpy pour les calculs matriciels 
+
+Installation des dépendances 
+
+pip -r requirements.txt
