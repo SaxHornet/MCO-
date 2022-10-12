@@ -1,4 +1,4 @@
-# Calcul des résidus avec Beta
+# MCO : calcul de béta et résidus
 
 ![plot_residus](https://user-images.githubusercontent.com/7604414/195327017-c5c7a4cb-c89b-4dc6-9a02-560c6c7625a6.png)
 
